@@ -1,0 +1,632 @@
+[
+    {
+        "name": "Álftaneslaug",
+        "address": " Breiðumýri, 225 Álftanes",
+        "coordinates": "64.10420702058816,22.020174264907837",
+        "neighborhood": "hofudborgarsvaedid/\n"
+    },
+    {
+        "name": "Árbæjarlaug",
+        "address": " Fylkisvegur 9, 110 Reykjavík",
+        "coordinates": "64.11220430276549,21.79483652114868",
+        "neighborhood": "hofudborgarsvaedid/\n"
+    },
+    {
+        "name": "Ásgarðslaug",
+        "address": " Íþróttamiðstöðinni Ásgarði",
+        "coordinates": "64.08837433646393,21.92944586277008",
+        "neighborhood": "hofudborgarsvaedid/\n"
+    },
+    {
+        "name": "Ásvallalaug",
+        "address": " Ásvöllum 2, 221 Hafnarfirði",
+        "coordinates": "64.05213808946526,21.975220441818237",
+        "neighborhood": "hofudborgarsvaedid/\n"
+    },
+    {
+        "name": "Breiðholtslaug",
+        "address": " Austurberg 3, 111 Reykjavík",
+        "coordinates": "64.10441318913306,21.81930899620056",
+        "neighborhood": "hofudborgarsvaedid/\n"
+    },
+    {
+        "name": "Dalslaug",
+        "address": " Úlfarsbraut 122 - 124, 113 Reykjavík",
+        "coordinates": "",
+        "neighborhood": "hofudborgarsvaedid/\n"
+    },
+    {
+        "name": "Grafarvogslaug",
+        "address": " Dalhúsum 2, 112 Reykjavík",
+        "coordinates": "64.13808248314444,21.786457300186157",
+        "neighborhood": "hofudborgarsvaedid/\n"
+    },
+    {
+        "name": "Klébergslaug",
+        "address": " Kollagrund 2, 116 Reykjavík",
+        "coordinates": "64.23763348081893,21.82731269049077",
+        "neighborhood": "hofudborgarsvaedid/\n"
+    },
+    {
+        "name": "Lágafellslaug",
+        "address": " Lækjarhlíð 1a, 270 Mosfellsbær",
+        "coordinates": "64.16501194207966,21.725378036499023",
+        "neighborhood": "hofudborgarsvaedid/\n"
+    },
+    {
+        "name": "Laugardalslaug",
+        "address": " v/ Sundlaugarveg, 105 Reykjavík",
+        "coordinates": "64.14612616752484,21.880087852478027",
+        "neighborhood": "hofudborgarsvaedid/\n"
+    },
+    {
+        "name": "Salalaug",
+        "address": " Versalir 3, 201 Kópavogur",
+        "coordinates": "64.0917235,21.855298400000038",
+        "neighborhood": "hofudborgarsvaedid/\n"
+    },
+    {
+        "name": "Seltjarnarneslaug",
+        "address": " Suðurströnd, 170 Seltjarnarnes",
+        "coordinates": "64.15037401453257,21.991946697235107",
+        "neighborhood": "hofudborgarsvaedid/\n"
+    },
+    {
+        "name": "Suðurbæjarlaug",
+        "address": " Hringbraut 77, 220 Hafnarfjörður",
+        "coordinates": "64.06001893221023,21.962227821350098",
+        "neighborhood": "hofudborgarsvaedid/\n"
+    },
+    {
+        "name": "Sundhöll Hafnarfjarðar",
+        "address": " Herjólfsgötu 10, 220 Hafnarfirði",
+        "coordinates": "64.0725314689839,21.968335211277008",
+        "neighborhood": "hofudborgarsvaedid/\n"
+    },
+    {
+        "name": "Sundhöll Reykjavíkur",
+        "address": " V. Barónsstíg, 101 Reykjavík",
+        "coordinates": "64.14183087727857,21.920653581619263",
+        "neighborhood": "hofudborgarsvaedid/\n"
+    },
+    {
+        "name": "Sundlaug Kópavogs",
+        "address": " Borgarholtsbraut 17, 200 Kópavogur",
+        "coordinates": "64.11064203852263,21.917043328285217",
+        "neighborhood": "hofudborgarsvaedid/\n"
+    },
+    {
+        "name": "Varmárlaug",
+        "address": " Skólabraut, 270 Mosfellsbæ",
+        "coordinates": "64.17023857010044,21.68971538543701",
+        "neighborhood": "hofudborgarsvaedid/\n"
+    },
+    {
+        "name": "Vesturbæjarlaug",
+        "address": " V. Hofsvallagötu, 101 Reykjavík",
+        "coordinates": "64.14451668126492,21.962871551513672",
+        "neighborhood": "hofudborgarsvaedid/\n"
+    },
+    {
+        "name": "Sundlaug Grundarfjarðar",
+        "address": " Borgarbraut 19, 350 Grundarfirði",
+        "coordinates": "",
+        "neighborhood": "vesturland/\n"
+    },
+    {
+        "name": "Íþróttamiðstöðin Borgarnesi",
+        "address": " Þorsteinsgötu 1, Borgarnesi",
+        "coordinates": "64.54038868351977,21.92274570465088",
+        "neighborhood": "vesturland/\n"
+    },
+    {
+        "name": "Íþróttamiðstöðin Kleppjárnsreykjum",
+        "address": " Kleppjárnsreykjum, 311 Borgarfirði",
+        "coordinates": "64.65594266216536,21.402010917663574",
+        "neighborhood": "vesturland/\n"
+    },
+    {
+        "name": "Íþróttamiðstöðin Varmalandi",
+        "address": " Varmaland, Borgarfirði",
+        "coordinates": "64.69091999999999,21.59269900000004",
+        "neighborhood": "vesturland/\n"
+    },
+    {
+        "name": "Jaðarsbakkalaug, Akranesi",
+        "address": " Við Innnesveg, Akranesi",
+        "coordinates": "64.31855621325285,22.05902338027954",
+        "neighborhood": "vesturland/\n"
+    },
+    {
+        "name": "Lýsulaugar",
+        "address": " Snæfellsnes",
+        "coordinates": "64.85,23.21666670000002",
+        "neighborhood": "vesturland/\n"
+    },
+    {
+        "name": "Ólafsvík",
+        "address": " Ennisbraut 11, 355 Ólafsvík",
+        "coordinates": "64.89694123218018,23.71328115463257",
+        "neighborhood": "vesturland/\n"
+    },
+    {
+        "name": "Sælingsdalslaug",
+        "address": " Laugum í Sælingsdal, 371 Búðardalur",
+        "coordinates": "",
+        "neighborhood": "vesturland/\n"
+    },
+    {
+        "name": "Stykkishólmur",
+        "address": " Borgarbraut 4, 340 Stykkishólmi",
+        "coordinates": "65.073088723301,22.728803157806396",
+        "neighborhood": "vesturland/\n"
+    },
+    {
+        "name": "Sundlaugin að Hlöðum",
+        "address": " Hlaðir í Hvalfirði, Hvalfjarðarsveit",
+        "coordinates": "64.41109798098313,21.61030282222896",
+        "neighborhood": "vesturland/\n"
+    },
+    {
+        "name": "Sundlaugin Húsafelli",
+        "address": " Húsafell, 311 Borgarnes",
+        "coordinates": "64.69925216817492,20.87101936340332",
+        "neighborhood": "vesturland/\n"
+    },
+    {
+        "name": "Bylta",
+        "address": " Hafnarbraut 3, 465 Bíldudal",
+        "coordinates": "",
+        "neighborhood": "vestfirdir/\n"
+    },
+    {
+        "name": "Sundlaug Bolungarvíkur - Musteri vatns og vellíðunar",
+        "address": " Höfðastígur, 415 Bolungarvík",
+        "coordinates": "66.15576616412655,23.252617120742798",
+        "neighborhood": "vestfirdir/\n"
+    },
+    {
+        "name": "Djúpadalslaug",
+        "address": " Djúpadal, 380 Reykhólahreppi",
+        "coordinates": "",
+        "neighborhood": "vestfirdir/\n"
+    },
+    {
+        "name": "Drangsnes",
+        "address": " Grundargötu 15, 520 Drangsnes",
+        "coordinates": "",
+        "neighborhood": "vestfirdir/\n"
+    },
+    {
+        "name": "Flateyrarlaug",
+        "address": " Tjarnargötu 1, 425 Flateyri",
+        "coordinates": "66.05167817695111,23.517179489135742",
+        "neighborhood": "vestfirdir/\n"
+    },
+    {
+        "name": "Flókalaug",
+        "address": " Flókalundi, 451 Patreksfirði",
+        "coordinates": "",
+        "neighborhood": "vestfirdir/\n"
+    },
+    {
+        "name": "Hólmavík",
+        "address": " Jakobínutún 3, 510 Hólmavík",
+        "coordinates": "",
+        "neighborhood": "vestfirdir/\n"
+    },
+    {
+        "name": "Krossaneslaug",
+        "address": " Norðurfjörður",
+        "coordinates": "",
+        "neighborhood": "vestfirdir/\n"
+    },
+    {
+        "name": "Brattahlíð, Patreksfirði",
+        "address": " Aðalstræti 55, 450 Patreksfjörður",
+        "coordinates": "65.59634307016182,23.98793935775757",
+        "neighborhood": "vestfirdir/\n"
+    },
+    {
+        "name": "Suðureyrarlaug",
+        "address": " Túngata 8b, 430 Suðureyri",
+        "coordinates": "66.12842304047233,23.52343440055847",
+        "neighborhood": "vestfirdir/\n"
+    },
+    {
+        "name": "Sundhöll Ísafjarðar",
+        "address": " Austurvegi 9, 400 Ísafjörður",
+        "coordinates": "66.073656,23.118270499999994",
+        "neighborhood": "vestfirdir/\n"
+    },
+    {
+        "name": "Sundlaugin Birkimel",
+        "address": " Lauganes við Hagavaðal",
+        "coordinates": "",
+        "neighborhood": "vestfirdir/\n"
+    },
+    {
+        "name": "Sundlaugin Grettislaug",
+        "address": " Reykjabraut 12, 380 Reykhólahreppi",
+        "coordinates": "",
+        "neighborhood": "vestfirdir/\n"
+    },
+    {
+        "name": "Þingeyrarlaug",
+        "address": " Þingeyrarodda, 470 Þingeyri",
+        "coordinates": "65.8808676,23.494195200000036",
+        "neighborhood": "vestfirdir/\n"
+    },
+    {
+        "name": "Tálknafjörður",
+        "address": " Sveinseyri, 460 Tálknafirði",
+        "coordinates": "65.62931196275923,23.845421809692425",
+        "neighborhood": "vestfirdir/\n"
+    },
+    {
+        "name": "Hofsós",
+        "address": " Suðurbraut, 565 Hofsósi",
+        "coordinates": "65.89150967793464,19.397306442260742",
+        "neighborhood": "nordurland-vestra/\n"
+    },
+    {
+        "name": "Sauðárkrókur",
+        "address": " Skagfirðingabraut, 550 Sauðárkrókur",
+        "coordinates": "65.7462987276169,19.64656949043274",
+        "neighborhood": "nordurland-vestra/\n"
+    },
+    {
+        "name": "Skagaströnd",
+        "address": " Einbúastíg 6, 545 Skagaströnd",
+        "coordinates": "65.82683718283914,20.32049059867859",
+        "neighborhood": "nordurland-vestra/\n"
+    },
+    {
+        "name": "Sólgarðar í Fljótum",
+        "address": " Grunnskólinn Sólgörðum í Fljótum",
+        "coordinates": "66.052113670093,19.120845794677734",
+        "neighborhood": "nordurland-vestra/\n"
+    },
+    {
+        "name": "Sundlaugin Blönduósi",
+        "address": " Melabraut 2, 540 Blönduósi",
+        "coordinates": "65.6595082814545,20.283433198928833",
+        "neighborhood": "nordurland-vestra/\n"
+    },
+    {
+        "name": "Sundlaugin Hvammstanga",
+        "address": " Hlíðarvegi, 530 Hvammstanga",
+        "coordinates": "65.39963980250575,20.94343900680542",
+        "neighborhood": "nordurland-vestra/\n"
+    },
+    {
+        "name": "Varmahlíð",
+        "address": " Varmahlíð, 560 Varmahlíð",
+        "coordinates": "65.55354719903733,19.451248467242408",
+        "neighborhood": "nordurland-vestra/\n"
+    },
+    {
+        "name": "Dalvík",
+        "address": " Svarfaðarbraut 34, 620 Dalvík",
+        "coordinates": "65.96724366807743,18.538012504577637",
+        "neighborhood": "nordurland-eystra/\n"
+    },
+    {
+        "name": "Glerárlaug",
+        "address": " Höfðahlíð, 600 Akureyri",
+        "coordinates": "65.68890597449827,18.118097148687752",
+        "neighborhood": "nordurland-eystra/\n"
+    },
+    {
+        "name": "Grenivíkurlaug",
+        "address": " Grenivíkurskóli, 610 Grenivík",
+        "coordinates": "65.94873687204259,18.172073364257812",
+        "neighborhood": "nordurland-eystra/\n"
+    },
+    {
+        "name": "Heiðarbær",
+        "address": " Reykjahverfi, 641 Húsavík",
+        "coordinates": "65.88865059999999,17.319824599999947",
+        "neighborhood": "nordurland-eystra/\n"
+    },
+    {
+        "name": "Hrísey",
+        "address": " Austurvegi 5, 630 Hrísey",
+        "coordinates": "65.97852955435609,18.37311565876007",
+        "neighborhood": "nordurland-eystra/\n"
+    },
+    {
+        "name": "Sundlaugin Illugastöðum",
+        "address": " Illugastöðum, Fnjóskadal",
+        "coordinates": "",
+        "neighborhood": "nordurland-eystra/\n"
+    },
+    {
+        "name": "Íþróttamiðstöð Eyjafjarðarsveitar",
+        "address": " Hrafnagilsskóla, 601 Eyjafirði",
+        "coordinates": "65.57303407537943,18.091413974761963",
+        "neighborhood": "nordurland-eystra/\n"
+    },
+    {
+        "name": "Íþróttamiðstöð Fjallabyggðar - Ólafsfirði",
+        "address": " Ólafsvegi 4, 625 Ólafsfirði",
+        "coordinates": "66.07024098951106,18.64881992340088",
+        "neighborhood": "nordurland-eystra/\n"
+    },
+    {
+        "name": "Íþróttamiðstöð Fjallabyggðar - Siglufirði",
+        "address": " Hvanneyrarbraut 52, 580 Siglufirði",
+        "coordinates": "66.15664658998554,18.906826972961426",
+        "neighborhood": "nordurland-eystra/\n"
+    },
+    {
+        "name": "Laugarbakki",
+        "address": "",
+        "coordinates": "",
+        "neighborhood": "nordurland-eystra/\n"
+    },
+    {
+        "name": "Lundur í Öxarfirði",
+        "address": " Öxarfjörður, 671 Kópasker",
+        "coordinates": "",
+        "neighborhood": "nordurland-eystra/\n"
+    },
+    {
+        "name": "Raufarhöfn",
+        "address": " Skólabraut, 675 Raufarhöfn",
+        "coordinates": "",
+        "neighborhood": "nordurland-eystra/\n"
+    },
+    {
+        "name": "Sundlaugin á Stórutjörnum",
+        "address": " Stórutjörnum, 641 Húsavík",
+        "coordinates": "",
+        "neighborhood": "nordurland-eystra/\n"
+    },
+    {
+        "name": "Sundlaug Akureyrar",
+        "address": " Þingvallastræti 21, 600 Akureyri",
+        "coordinates": "65.67914990062135,18.097615242004395",
+        "neighborhood": "nordurland-eystra/\n"
+    },
+    {
+        "name": "Sundlaug Grímseyjar",
+        "address": " Grímsey, 611 Grímsey",
+        "coordinates": "66.5393464707103,18.013200759887695",
+        "neighborhood": "nordurland-eystra/\n"
+    },
+    {
+        "name": "Sundlaug Húsavíkur",
+        "address": " Laugarbrekku 2, 640 Húsavík",
+        "coordinates": "66.04919572372813,17.345738410949707",
+        "neighborhood": "nordurland-eystra/\n"
+    },
+    {
+        "name": "Sundlaug Þórshafnar",
+        "address": " Langanesvegi 18b, 680 Þórshöfn",
+        "coordinates": "66.19749793528985,15.32618522644043",
+        "neighborhood": "nordurland-eystra/\n"
+    },
+    {
+        "name": "Sundlaugin Laugum",
+        "address": " Kjarna, 650 Laugum",
+        "coordinates": "65.72141710056646,17.360200881958008",
+        "neighborhood": "nordurland-eystra/\n"
+    },
+    {
+        "name": "Svalbarðsströnd",
+        "address": " Svalbarðseyri, Svalbarðsströnd",
+        "coordinates": "",
+        "neighborhood": "nordurland-eystra/\n"
+    },
+    {
+        "name": "Þelamerkurlaug",
+        "address": " Þelamörk, Laugalandi, Hörgárbyggð",
+        "coordinates": "65.74230330000002,18.281562699999995",
+        "neighborhood": "nordurland-eystra/\n"
+    },
+    {
+        "name": "Þórshöfn",
+        "address": " Langanesvegi 18b, 680 Þórshöfn",
+        "coordinates": "",
+        "neighborhood": "nordurland-eystra/\n"
+    },
+    {
+        "name": "Eskifjörður",
+        "address": " Dalbraut 3a, 735 Eskifjörður",
+        "coordinates": "65.07749710800952,14.03778076171875",
+        "neighborhood": "austurland/\n"
+    },
+    {
+        "name": "Fáskrúðsfjörður",
+        "address": " Skólavegi 39-41, 750 Fáskrúðsfjörður",
+        "coordinates": "64.93006084270064,14.009473506329414",
+        "neighborhood": "austurland/\n"
+    },
+    {
+        "name": "Sundlaug Reyðarfjarðar",
+        "address": " Heiðarvegur 13, 730 Reyðarfjörður",
+        "coordinates": "",
+        "neighborhood": "austurland/\n"
+    },
+    {
+        "name": "Skjöldólfsstaðir",
+        "address": " Skjöldólfsstaðaskóli, 701 Egilsstaðir",
+        "coordinates": "",
+        "neighborhood": "austurland/\n"
+    },
+    {
+        "name": "Stefánslaug, Neskaupstað",
+        "address": " Miðstræti 15, 740 Neskaupstaður",
+        "coordinates": "65.14800095982133,13.688923893115202",
+        "neighborhood": "austurland/\n"
+    },
+    {
+        "name": "Stöðvarfjörður",
+        "address": " Skólabraut 20, 755 Stöðvarfjörður",
+        "coordinates": "64.8341083,13.87357069999996",
+        "neighborhood": "austurland/\n"
+    },
+    {
+        "name": "Sundhöll Seyðisfjarðar",
+        "address": " Suðurgötu 5, Seyðisfirði",
+        "coordinates": "65.25923040790123,14.005543910311872",
+        "neighborhood": "austurland/\n"
+    },
+    {
+        "name": "Sundlaug Djúpavogs",
+        "address": " Varða 4, 765 Djúpavogshrepp",
+        "coordinates": "64.6549315729826,14.279620524157622",
+        "neighborhood": "austurland/\n"
+    },
+    {
+        "name": "Sundlaugin Breiðdalsvík",
+        "address": " Selnes 25, 760 Breiðdalsvík",
+        "coordinates": "64.7908545,14.00346239999999",
+        "neighborhood": "austurland/\n"
+    },
+    {
+        "name": "Sundlaugin Egilsstöðum",
+        "address": " Tjarnarbraut 26, 700 Egilsstaðir",
+        "coordinates": "65.26680247811079,14.39605925847468",
+        "neighborhood": "austurland/\n"
+    },
+    {
+        "name": "Vopnafjörður - Selárdalur",
+        "address": " Selárdalslaug í Selárdal, Vopnafjarðarhreppi",
+        "coordinates": "65.80242458917324,14.911022186279297",
+        "neighborhood": "austurland/\n"
+    },
+    {
+        "name": "Borg, Grímsnesi",
+        "address": " Borg, Grímsnesi, 801 Selfoss",
+        "coordinates": "64.07454969912554,20.76788306236267",
+        "neighborhood": "sudurland/\n"
+    },
+    {
+        "name": "Sundlaugin Flúðum",
+        "address": " Flúðir, 845 Flúðum",
+        "coordinates": "64.1350003,20.322102299999983",
+        "neighborhood": "sudurland/\n"
+    },
+    {
+        "name": "Hella",
+        "address": " Útskálum 5, 850 Hella",
+        "coordinates": "63.83711361598101,20.40058135986328",
+        "neighborhood": "sudurland/\n"
+    },
+    {
+        "name": "Hvolsvöllur",
+        "address": " Vallarbraut, Hvolsvelli",
+        "coordinates": "63.75381472665244,20.230464935302734",
+        "neighborhood": "sudurland/\n"
+    },
+    {
+        "name": "Kirkjubæjarklaustur",
+        "address": " Klausturvegur 4, 880 Kirkjubæjarklaustur",
+        "coordinates": "63.787159073423375,18.053433895111084",
+        "neighborhood": "sudurland/\n"
+    },
+    {
+        "name": "Laugarvatn",
+        "address": " Hverabraut 2, 840 Laugarvatn",
+        "coordinates": "64.21442914498766,20.731823444366455",
+        "neighborhood": "sudurland/\n"
+    },
+    {
+        "name": "Neslaug",
+        "address": " Árnes, Selfoss",
+        "coordinates": "64.04325010716487,20.250399112701416",
+        "neighborhood": "sudurland/\n"
+    },
+    {
+        "name": "Reykholtslaug",
+        "address": " Reykholt, 801 Selfoss",
+        "coordinates": "64.17495010607108,20.445470809936523",
+        "neighborhood": "sudurland/\n"
+    },
+    {
+        "name": "Skeiðalaug",
+        "address": " Brautarholt, Selfoss",
+        "coordinates": "64.02227958887104,20.52349090576172",
+        "neighborhood": "sudurland/\n"
+    },
+    {
+        "name": "Stokkseyri",
+        "address": " Stjörnusteinum 1a, 825 Stokkseyri",
+        "coordinates": "63.83743529543817,21.062926054000854",
+        "neighborhood": "sudurland/\n"
+    },
+    {
+        "name": "Sundhöll Selfoss",
+        "address": " Tryggvagata 15, 800 Selfossi",
+        "coordinates": "63.935628326244306,20.998263359069824",
+        "neighborhood": "sudurland/\n"
+    },
+    {
+        "name": "Sundlaug Hafnar",
+        "address": " Víkurbraut 9, 780 Höfn",
+        "coordinates": "64.25417352526945,15.208237767219543",
+        "neighborhood": "sudurland/\n"
+    },
+    {
+        "name": "Sundlaugin Laugalandi",
+        "address": " Laugalandi í Holtum, Rangárþingi Ytra",
+        "coordinates": "63.91689585463467,20.413165472460946",
+        "neighborhood": "sudurland/\n"
+    },
+    {
+        "name": "Sundlaugin Laugaskarði",
+        "address": " Laugaskarði, 810 Hveragerði",
+        "coordinates": "64.00172597862766,21.179838180541992",
+        "neighborhood": "sudurland/\n"
+    },
+    {
+        "name": "Vestmannaeyjar",
+        "address": " Brimhólalaut, Vestmannaeyjum",
+        "coordinates": "63.43799269061539,20.283454656600952",
+        "neighborhood": "sudurland/\n"
+    },
+    {
+        "name": "Vík",
+        "address": " Mánabraut 3, Vík",
+        "coordinates": "63.41745892482214,19.008021354675293",
+        "neighborhood": "sudurland/\n"
+    },
+    {
+        "name": "Þorlákshöfn",
+        "address": " Hafnarberg 41, 815 Þorlákshöfn",
+        "coordinates": "63.853148170805966,21.38318181037903",
+        "neighborhood": "sudurland/\n"
+    },
+    {
+        "name": "Reykjanesbær - Njarðvík",
+        "address": " Norðurstíg 2, 260 Reykjanesbæ",
+        "coordinates": "63.9874924,22.543915800000036",
+        "neighborhood": "reykjanes/"
+    },
+    {
+        "name": "Reykjanesbær - Vatnaveröld",
+        "address": " Sunnubraut 31, 230 Reykjanesbæ",
+        "coordinates": "63.9984572,22.560542800000007",
+        "neighborhood": "reykjanes/"
+    },
+    {
+        "name": "Sandgerði",
+        "address": " Skólastræti 2, 245 Sandgerði",
+        "coordinates": "64.03355601984453,22.69974946975708",
+        "neighborhood": "reykjanes/"
+    },
+    {
+        "name": "Sundlaug Grindavíkur",
+        "address": " Austurvegur 1, Grindavík",
+        "coordinates": "63.844435643511225,22.431249618530273",
+        "neighborhood": "reykjanes/"
+    },
+    {
+        "name": "Sundlaugin Garði",
+        "address": " Garðbraut 94, 250 Garði",
+        "coordinates": "64.07287039175765,22.65504240989685",
+        "neighborhood": "reykjanes/"
+    }
+]

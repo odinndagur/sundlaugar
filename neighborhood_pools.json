@@ -1,0 +1,147 @@
+{
+    "hofudborgarsvaedid/\n": {
+        "url": "https://sundlaugar.is/landshlutar/hofudborgarsvaedid/\n",
+        "pool_urls": [
+            "https://sundlaugar.is/sundlaugar/alftaneslaug/",
+            "https://sundlaugar.is/sundlaugar/190/",
+            "https://sundlaugar.is/sundlaugar/asgardslaug/",
+            "https://sundlaugar.is/sundlaugar/asvallalaug/",
+            "https://sundlaugar.is/sundlaugar/breidholtslaug/",
+            "https://sundlaugar.is/sundlaugar/dalslaug/",
+            "https://sundlaugar.is/sundlaugar/grafarvogslaug/",
+            "https://sundlaugar.is/sundlaugar/klebergslaug/",
+            "https://sundlaugar.is/sundlaugar/lagafellslaug/",
+            "https://sundlaugar.is/sundlaugar/laugardalslaug/",
+            "https://sundlaugar.is/sundlaugar/salalaug/",
+            "https://sundlaugar.is/sundlaugar/seltjarnarneslaug/",
+            "https://sundlaugar.is/sundlaugar/sudurbaejarlaug/",
+            "https://sundlaugar.is/sundlaugar/sundholl-hafnarfjardar/",
+            "https://sundlaugar.is/sundlaugar/sundholl-reykjavikur/",
+            "https://sundlaugar.is/sundlaugar/sundlaug-kopavogs/",
+            "https://sundlaugar.is/sundlaugar/varmarlaug/",
+            "https://sundlaugar.is/sundlaugar/vesturbaejarlaug/"
+        ]
+    },
+    "vesturland/\n": {
+        "url": "https://sundlaugar.is/landshlutar/vesturland/\n",
+        "pool_urls": [
+            "https://sundlaugar.is/sundlaugar/grundarfjordur/",
+            "https://sundlaugar.is/sundlaugar/ithrottamidstodin-borgarnesi-2/",
+            "https://sundlaugar.is/sundlaugar/ithrottamidstodin-kleppjarnsreykjum/",
+            "https://sundlaugar.is/sundlaugar/ithrottamidstodin-varmalandi/",
+            "https://sundlaugar.is/sundlaugar/jadarsbakkalaug/",
+            "https://sundlaugar.is/sundlaugar/lysulaugar/",
+            "https://sundlaugar.is/sundlaugar/olafsvik/",
+            "https://sundlaugar.is/sundlaugar/saelingsdalslaug/",
+            "https://sundlaugar.is/sundlaugar/stykkisholmur/",
+            "https://sundlaugar.is/sundlaugar/sundlaugin-ad-hlodum/",
+            "https://sundlaugar.is/sundlaugar/sundlaugin-husafelli/"
+        ]
+    },
+    "vestfirdir/\n": {
+        "url": "https://sundlaugar.is/landshlutar/vestfirdir/\n",
+        "pool_urls": [
+            "https://sundlaugar.is/sundlaugar/bildudal/",
+            "https://sundlaugar.is/sundlaugar/sundlaug-bolungarvikur/",
+            "https://sundlaugar.is/sundlaugar/djupadalslaug/",
+            "https://sundlaugar.is/sundlaugar/drangsnes/",
+            "https://sundlaugar.is/sundlaugar/flateyri/",
+            "https://sundlaugar.is/sundlaugar/flokalaug/",
+            "https://sundlaugar.is/sundlaugar/holmavik/",
+            "https://sundlaugar.is/sundlaugar/krossaneslaug/",
+            "https://sundlaugar.is/sundlaugar/patreksfjordur/",
+            "https://sundlaugar.is/sundlaugar/sudureyri/",
+            "https://sundlaugar.is/sundlaugar/sundholl-isafjardar/",
+            "https://sundlaugar.is/sundlaugar/sundlaugin-birkimel/",
+            "https://sundlaugar.is/sundlaugar/sundlaugin-grettislaug/",
+            "https://sundlaugar.is/sundlaugar/sundlaugin-thingeyri/",
+            "https://sundlaugar.is/sundlaugar/talknafjordur/"
+        ]
+    },
+    "nordurland-vestra/\n": {
+        "url": "https://sundlaugar.is/landshlutar/nordurland-vestra/\n",
+        "pool_urls": [
+            "https://sundlaugar.is/sundlaugar/hofsos/",
+            "https://sundlaugar.is/sundlaugar/saudarkrokur/",
+            "https://sundlaugar.is/sundlaugar/skagastrond/",
+            "https://sundlaugar.is/sundlaugar/solgardar-i-fljotum/",
+            "https://sundlaugar.is/sundlaugar/sundlaugin-blonduosi/",
+            "https://sundlaugar.is/sundlaugar/sundlaugin-hvammstanga/",
+            "https://sundlaugar.is/sundlaugar/varmahlid/"
+        ]
+    },
+    "nordurland-eystra/\n": {
+        "url": "https://sundlaugar.is/landshlutar/nordurland-eystra/\n",
+        "pool_urls": [
+            "https://sundlaugar.is/sundlaugar/dalvik/",
+            "https://sundlaugar.is/sundlaugar/glerarlaug/",
+            "https://sundlaugar.is/sundlaugar/grenivikurlaug/",
+            "https://sundlaugar.is/sundlaugar/heidarbaer/",
+            "https://sundlaugar.is/sundlaugar/hrisey/",
+            "https://sundlaugar.is/sundlaugar/illugastadir/",
+            "https://sundlaugar.is/sundlaugar/ithrottamidstod-eyjafjardarsveitar/",
+            "https://sundlaugar.is/sundlaugar/olafsfjordur/",
+            "https://sundlaugar.is/sundlaugar/siglufjordur/",
+            "https://sundlaugar.is/sundlaugar/laugarbakki/",
+            "https://sundlaugar.is/sundlaugar/lundur-i-oxarfirdi/",
+            "https://sundlaugar.is/sundlaugar/raufarhofn/",
+            "https://sundlaugar.is/sundlaugar/storutjarnir/",
+            "https://sundlaugar.is/sundlaugar/sundlaug-akureyrar/",
+            "https://sundlaugar.is/sundlaugar/sundlaug-grimseyjar/",
+            "https://sundlaugar.is/sundlaugar/sundlaug-husavikur/",
+            "https://sundlaugar.is/sundlaugar/sundlaug-thorshafnar/",
+            "https://sundlaugar.is/sundlaugar/sundlaugin-laugum/",
+            "https://sundlaugar.is/sundlaugar/svalbardsstrond/",
+            "https://sundlaugar.is/sundlaugar/thelamerkurlaug/",
+            "https://sundlaugar.is/sundlaugar/thorshofn/"
+        ]
+    },
+    "austurland/\n": {
+        "url": "https://sundlaugar.is/landshlutar/austurland/\n",
+        "pool_urls": [
+            "https://sundlaugar.is/sundlaugar/eskifjordur/",
+            "https://sundlaugar.is/sundlaugar/faskrudsfjordur/",
+            "https://sundlaugar.is/sundlaugar/reydarfjordur/",
+            "https://sundlaugar.is/sundlaugar/skjoldolfsstadir/",
+            "https://sundlaugar.is/sundlaugar/neskaupstadur/",
+            "https://sundlaugar.is/sundlaugar/stodvarfjordur/",
+            "https://sundlaugar.is/sundlaugar/sundholl-seydisfjardar/",
+            "https://sundlaugar.is/sundlaugar/sundlaug-djupavogs/",
+            "https://sundlaugar.is/sundlaugar/sundlaugin-breiddalsvik/",
+            "https://sundlaugar.is/sundlaugar/sundlaugin-egilsstodum/",
+            "https://sundlaugar.is/sundlaugar/vopnafjordur-selardalur/"
+        ]
+    },
+    "sudurland/\n": {
+        "url": "https://sundlaugar.is/landshlutar/sudurland/\n",
+        "pool_urls": [
+            "https://sundlaugar.is/sundlaugar/borg-grimsnesi/",
+            "https://sundlaugar.is/sundlaugar/fludir/",
+            "https://sundlaugar.is/sundlaugar/hella/",
+            "https://sundlaugar.is/sundlaugar/hvolsvollur/",
+            "https://sundlaugar.is/sundlaugar/kirkjubaejarklaustur/",
+            "https://sundlaugar.is/sundlaugar/laugarvatn/",
+            "https://sundlaugar.is/sundlaugar/neslaug/",
+            "https://sundlaugar.is/sundlaugar/reykholtslaug/",
+            "https://sundlaugar.is/sundlaugar/skeidalaug/",
+            "https://sundlaugar.is/sundlaugar/stokkseyri/",
+            "https://sundlaugar.is/sundlaugar/sundholl-selfoss/",
+            "https://sundlaugar.is/sundlaugar/sundlaug-hafnar/",
+            "https://sundlaugar.is/sundlaugar/sundlaugin-laugalandi/",
+            "https://sundlaugar.is/sundlaugar/sundlaugin-laugaskardi/",
+            "https://sundlaugar.is/sundlaugar/vestmannaeyjar/",
+            "https://sundlaugar.is/sundlaugar/vik/",
+            "https://sundlaugar.is/sundlaugar/thorlakshofn/"
+        ]
+    },
+    "reykjanes/": {
+        "url": "https://sundlaugar.is/landshlutar/reykjanes/",
+        "pool_urls": [
+            "https://sundlaugar.is/sundlaugar/reykjanesbaer-njardvik/",
+            "https://sundlaugar.is/sundlaugar/reykjanesbaer-vatnaverold/",
+            "https://sundlaugar.is/sundlaugar/sandgerdi/",
+            "https://sundlaugar.is/sundlaugar/sundlaug-grindavikur/",
+            "https://sundlaugar.is/sundlaugar/sundlaugin-gardi/"
+        ]
+    }
+}
