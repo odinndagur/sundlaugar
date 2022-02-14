@@ -1,0 +1,32 @@
+<svg xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" width="224.521364pt" height="213.543322pt" viewBox="0 0 224.521364 213.543322" version="1.1" id="svg20287" sodipodi:docname="island.tar" inkscape:version="1.1.2 (b8e25be8, 2022-02-05)">
+  <sodipodi:namedview id="namedview20289" pagecolor="#ffffff" bordercolor="#111111" borderopacity="1" inkscape:pageshadow="0" inkscape:pageopacity="0" inkscape:pagecheckerboard="1" inkscape:document-units="pt" showgrid="false" inkscape:zoom="2.3924501" inkscape:cx="105.12236" inkscape:cy="144.83061" inkscape:window-width="1680" inkscape:window-height="997" inkscape:window-x="0" inkscape:window-y="25" inkscape:window-maximized="1" inkscape:current-layer="layer3"/>
+  <metadata id="metadata10518">
+    <rdf:RDF>
+      <cc:Work>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+        <dc:date>2022-02-11T20:02:33.691686</dc:date>
+        <dc:format>image/svg+xml</dc:format>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Matplotlib v3.5.1, https://matplotlib.org/</dc:title>
+          </cc:Agent>
+        </dc:creator>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs id="defs10522">
+    <style type="text/css" id="style10520">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+    <clipPath clipPathUnits="userSpaceOnUse" id="clipPath25044">
+      <path d="M 0,213.54332 H 224.52136 V 0 H 0 Z" style="fill:none;stroke-width:0.999998" id="path25046"/>
+    </clipPath>
+    <clipPath clipPathUnits="userSpaceOnUse" id="clipPath25048">
+      <path d="M 0,213.54332 H 224.52136 V 0 H 0 Z" style="fill:none;stroke-width:0.999998" id="path25050"/>
+    </clipPath>
+  </defs>
+  <defs id="defs20285">
+    <clipPath id="p87119608ef">
+      <path d="M 0 213.543322  L 0 15.118125  L 224.521364 15.118125  L 224.521364 213.543322  L 0 213.543322  " id="path20282"/>
+    </clipPath>
+  </defs>
+<g inkscape:groupmode="layer" id="layer3" inkscape:label="mask"/>
+  </svg>
